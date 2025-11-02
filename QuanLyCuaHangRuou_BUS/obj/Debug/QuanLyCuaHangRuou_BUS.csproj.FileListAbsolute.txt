@@ -1,0 +1,90 @@
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll.config
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.pdb
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.dll
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.pdb
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll.config
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.xml
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.AssemblyReference.cache
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.CoreCompileInputs.cache
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCu.B658C68C.Up2Date
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.dll
+D:\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.pdb
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll.config
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.pdb
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.dll
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.dll
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.pdb
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll.config
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.xml
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.xml
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.AssemblyReference.cache
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.CoreCompileInputs.cache
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCu.B658C68C.Up2Date
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.dll
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.pdb
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll.config
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.pdb
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.dll
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.pdb
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll.config
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.xml
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCu.B658C68C.Up2Date
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.dll
+D:\ĐỒ ÁN\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\Đồ án_QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.pdb
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll.config
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.pdb
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.dll
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.pdb
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll.config
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.xml
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.AssemblyReference.cache
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.CoreCompileInputs.cache
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCu.B658C68C.Up2Date
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.dll
+D:\DooAn\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.pdb
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll.config
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.pdb
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.dll
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.dll
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.pdb
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll.config
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.xml
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.xml
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.AssemblyReference.cache
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.CoreCompileInputs.cache
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCu.B658C68C.Up2Date
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.dll
+E:\nguyentrongnghia-hutech\Học Tập\NAM 3\Lập trình trên môi trường WIndows\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.pdb
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll.config
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.dll
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_BUS.pdb
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.dll
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.pdb
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\QuanLyCuaHangRuou_DAL.dll.config
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.xml
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCu.B658C68C.Up2Date
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.dll
+D:\ĐỒ ÁN\QuanLyCuaHangRuou\QuanLyCuaHangRuou\QuanLyCuaHangRuou_BUS\obj\Debug\QuanLyCuaHangRuou_BUS.pdb
